@@ -5,9 +5,9 @@
 - 📫 How to reach me:
   Phone Number: +201018989702 / +201205243539
 
-  [Email](Moustafa-Shaaban@outlook.com)
+  Email: Moustafa-Shaaban@outlook.com
   
-  [Twitter](twitter.com/_MoustafaShaban)
+  Twitter: twitter.com/_MoustafaShaban
   
   [LinkedIn](https://www.linkedin.com/in/moustafashaaban/)
   
