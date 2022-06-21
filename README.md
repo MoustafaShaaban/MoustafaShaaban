@@ -7,7 +7,7 @@
 
   Email: Moustafa-Shaaban@outlook.com
   
-  Twitter: twitter.com/_MoustafaShaban
+  [Twitter](https://twitter.com/_MoustafaShaban)
   
   [LinkedIn](https://www.linkedin.com/in/moustafashaaban/)
   
