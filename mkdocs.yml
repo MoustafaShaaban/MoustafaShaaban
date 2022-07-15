@@ -1,0 +1,5 @@
+site_name: Moustafa Shaaban
+
+nav:
+    - Resume: resume.md
+    - Tutorials: tutorials/tutorials.md
