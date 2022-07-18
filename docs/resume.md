@@ -72,11 +72,11 @@ analysis projects about spatial and non-spatial data.
 
 * Technologies Used: HTML5/ CSS3/ JavaScript/ ArcGIS JavaScript API
 
-* In this project we will use the ArcGIS JavaScript API to search for nearest places like Parks, Hospitals, Hotels, Libraries in an area.
+* In this project we will use the ArcGIS JavaScript API to search for nearest places like Parks, Hospitals, Hotels, Libraries and others in any area.
 
-* [Project files on Github](https://github.com/MoustafaShaaban/GIS_Portfolio/tree/main/Web_GIS/ArcGIS_JavaScript_API/Basic%20routing)
+* [Project files on Github](https://github.com/MoustafaShaaban/GIS_Portfolio/tree/main/Web_GIS/ArcGIS_JavaScript_API/Searching_for_places)
 
-* [Preview](https://github.com/MoustafaShaaban/GIS_Portfolio/blob/main/Web_GIS/ArcGIS_JavaScript_API/Basic%20routing/Basic_Routing.gif)
+* [Preview](https://github.com/MoustafaShaaban/GIS_Portfolio/blob/main/Web_GIS/ArcGIS_JavaScript_API/Searching_for_places/Searching%20for%20places.gif)
 
 
 #### Project 3: Interactive web map showing public schools in Seattle:
@@ -116,7 +116,7 @@ analysis projects about spatial and non-spatial data.
 
 #### Computer Skills:
 
-* Linux, and PC.
+* Linux, Windows, Microsoft Office Suite.
 
 #### GIS:
 
