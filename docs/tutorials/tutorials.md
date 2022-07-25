@@ -16,3 +16,5 @@
 #### 2- Spatial Databases:
 
 * [Create a Spatialite database and insert data inside it](GIS/Spatial_Databases/SpatiaLite/spatialite.md)
+
+* [PostgreSQL_and_PostGIS](GIS/Spatial_Databases/PostgreSQL_and_PostGIS/postgresql_and_postgis.md)
