@@ -15,6 +15,12 @@
 
 #### 2- Spatial Databases:
 
+##### SpatiaLite:
+
 * [Create a Spatialite database and insert data inside it](GIS/Spatial_Databases/SpatiaLite/spatialite.md)
 
-* [PostgreSQL_and_PostGIS](GIS/Spatial_Databases/PostgreSQL_and_PostGIS/postgresql_and_postgis.md)
+##### PostgreSQL + PostGIS:
+
+* [Install PostgreSQL and PostGIS on Windows OS](GIS/Spatial_Databases/PostgreSQL_and_PostGIS/postgresql_and_postgis.md)
+
+* [Create, manage and query a PostGIS spatial database](GIS/Spatial_Databases/Create_PostGIS_Database/postgresql_and_postgis.md)
